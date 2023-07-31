@@ -973,7 +973,7 @@ header{
 }
 .texto__inicio-titulo{
     position: absolute;
-    top: 47rem;
+    top: 47.5rem;
     left: 40%;
 }
 .texto__inicio-3{
@@ -1165,7 +1165,7 @@ header{
 }
 .opcion9{
     position: relative;
-    top: -41.5rem;
+    top: -42.5rem;
     left: 30rem;
     width: 20%;
 }
